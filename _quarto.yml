@@ -10,9 +10,11 @@ book:
     - index.qmd
     - intro.qmd
     - summary.qmd
-    - references.qmd
+#    - references.qmd
 
 bibliography: references.bib
+csl: chicago-author-date.csl
+citation-location: document  # 👈 Important for per-chapter bibliographies
 
 format:
   html:

@@ -2,7 +2,7 @@
 
 This is a book created from markdown and executable code.
 
-See [@gelman2007] for additional discussion of literate programming.
+See [@gelman2007] for additional discussion of Multilevel Hierarchical modeling. Note also, the work of [@nakagawa2013].
 
 ```{r}
 1 + 1
