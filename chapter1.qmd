@@ -2,7 +2,7 @@
 title: "Foundations of GLMMs"
 ---
 
-# Introduction
+# Chapter 1: Foundations of GLMMs
 
 Generalized linear mixed models (GLMMs) extend traditional linear models by incorporating both fixed and random effects.^[@gelman2007, p. 22] These models are particularly useful in ecology, epidemiology, and other fields where data have hierarchical or nested structure.^[@mcculloch2008]
 

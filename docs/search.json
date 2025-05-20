@@ -38,5 +38,25 @@
     "crumbs": [
       "<span class='chapter-number'>2</span>  <span class='chapter-title'>Summary</span>"
     ]
+  },
+  {
+    "objectID": "chapter1.html",
+    "href": "chapter1.html",
+    "title": "3  Foundations of GLMMs",
+    "section": "",
+    "text": "4 Chapter 1: Foundations of GLMMs\nGeneralized linear mixed models (GLMMs) extend traditional linear models by incorporating both fixed and random effects.1 These models are particularly useful in ecology, epidemiology, and other fields where data have hierarchical or nested structure.2\nIn the context of model comparison, the coefficient of determination ( R^2 ) has been adapted for GLMMs by Nakagawa and Schielzeth.3",
+    "crumbs": [
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Foundations of GLMMs</span>"
+    ]
+  },
+  {
+    "objectID": "chapter1.html#footnotes",
+    "href": "chapter1.html#footnotes",
+    "title": "3  Foundations of GLMMs",
+    "section": "",
+    "text": "Andrew Gelman and Jennifer Hill, Data Analysis Using Regression and Multilevel/Hierarchical Models (Cambridge University Press, 2007), p. 22↩︎\nCharles E McCulloch, Shayle R Searle, and John M Neuhaus, “Generalized Linear Mixed Models,” in Encyclopedia of Statistics in Behavioral Science, ed. Brian S Everitt and David C Howell (Wiley, 2008), 641–44.↩︎\nShinichi Nakagawa and Holger Schielzeth, “A General and Simple Method for Obtaining R² from Generalized Linear Mixed-Effects Models,” Methods in Ecology and Evolution 4, no. 2 (2013): 133–42, p. 135↩︎\nAnthony P. Russell and Aaron M. Bauer, “Lizards in a Warming World Dataset” (Dryad Digital Repository, 2017), https://doi.org/10.5061/dryad.xxxxx.↩︎\nEmily R. Johnson, “Bayesian Hierarchical Models for Species Distribution” (PhD thesis, University of British Columbia, 2020).↩︎\nGelman and Hill, Data Analysis Using Regression and Multilevel/Hierarchical Models, p. 118↩︎\nNakagawa and Schielzeth, “A General and Simple Method for Obtaining R² from Generalized Linear Mixed-Effects Models”, p. 140↩︎",
+    "crumbs": [
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Foundations of GLMMs</span>"
+    ]
   }
 ]
