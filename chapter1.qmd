@@ -9,15 +9,17 @@ Generalized linear mixed models (GLMMs) extend traditional linear models by inco
 
 In the context of model comparison, the coefficient of determination \( R^2 \) has been adapted for GLMMs by Nakagawa and Schielzeth.^[@nakagawa2013, p. 135]
 
-# Applications
+## Applications
 
 Let us now consider a study on lizard movement and thermoregulation, where hierarchical modeling played a key role in capturing population-level variation.^[@russell2017]
 
 Bayesian approaches to GLMMs have gained popularity due to their flexibility and ability to handle complex hierarchical structures.^[@johnson2020]
 
+### Model Comparison
+
 A second reference to the same foundational text confirms its continued relevance.^[@gelman2007, p. 118]
 
-# Conclusion
+## Conclusion
 
 GLMMs are not a panacea, but when applied thoughtfully, they enable sophisticated modeling of structured data.^[@nakagawa2013, p. 140]
 
