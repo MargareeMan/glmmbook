@@ -14,7 +14,17 @@
     "href": "intro.html",
     "title": "1  Introduction",
     "section": "",
-    "text": "This is a book created from markdown and executable code.\nSee (Gelman and Hill 2007) for additional discussion of Multilevel Hierarchical modeling. Note also, the work of (Nakagawa and Schielzeth 2013).\n\n1 + 1\n\n[1] 2\n\n\n\n\n\n\nGelman, Andrew, and Jennifer Hill. 2007. Data Analysis Using Regression and Multilevel/Hierarchical Models. Cambridge University Press.\n\n\nNakagawa, Shinichi, and Holger Schielzeth. 2013. “A General and Simple Method for Obtaining R² from Generalized Linear Mixed-Effects Models.” Methods in Ecology and Evolution 4 (2): 133–42.",
+    "text": "This is a book created from markdown and executable code.\nSee1 for additional discussion of Multilevel Hierarchical modeling. Note also, the work of.2",
+    "crumbs": [
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Introduction</span>"
+    ]
+  },
+  {
+    "objectID": "intro.html#footnotes",
+    "href": "intro.html#footnotes",
+    "title": "1  Introduction",
+    "section": "",
+    "text": "Andrew Gelman and Jennifer Hill, Data Analysis Using Regression and Multilevel/Hierarchical Models (Cambridge University Press, 2007).↩︎\nShinichi Nakagawa and Holger Schielzeth, “A General and Simple Method for Obtaining R² from Generalized Linear Mixed-Effects Models,” Methods in Ecology and Evolution 4, no. 2 (2013): 133–42.↩︎",
     "crumbs": [
       "<span class='chapter-number'>1</span>  <span class='chapter-title'>Introduction</span>"
     ]

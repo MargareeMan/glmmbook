@@ -13,7 +13,7 @@ book:
 #    - references.qmd
 
 bibliography: references.bib
-csl: chicago-author-date.csl
+csl: chicago-notes.csl
 citation-location: document  # 👈 Important for per-chapter bibliographies
 
 format:
