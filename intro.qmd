@@ -2,7 +2,9 @@
 
 This is a book created from markdown and executable code.
 
-See [@gelman2007] for additional discussion of Multilevel Hierarchical modeling. Note also, the work of [@nakagawa2013].
+In their discussion of "Why we avoid the term 'random effects.'" [@gelman2007, p. 2] Gelman and Hill note that in their framework all regression parameters are 'random,'. The address this again in Chapter 10 [@gelman2007, p. 226]. 
+
+Nakagawa and Schielzeth provide R² estimates for GLMMs [@nakagawa2013, p. 135]. 
 
 ```{r}
 1 + 1
